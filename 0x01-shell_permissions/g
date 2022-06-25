@@ -1,0 +1,4 @@
+#!/bin/bash
+git add .
+git commit -m " the commit to this task is automated"
+git push
